@@ -43,14 +43,3 @@ The MNIST dataset contains:
 5. Evaluate accuracy
 6. Predict new digits
 
----
-
-## ▶️ How to Run
-
-### Option 1: Google Colab
-1. Open the notebook in Google Colab
-2. Run all cells
-
-### Option 2: Local Machine
-```bash
-pip install tensorflow matplotlib numpy
